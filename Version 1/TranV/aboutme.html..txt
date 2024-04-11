@@ -1,0 +1,18 @@
+<!DOCTYPE.html>
+<html>
+	<Head>
+		<Title> Vinsons about me page</title>
+	</Head>
+
+	<body>
+		<h1>About me</h1>
+
+		<p>Some Things about me is I like to be outside and One of my favorite artist is Lil Peep</p>
+
+		<img src="Nature.png">
+
+		<img src="Peep.png">
+
+	</body>
+</html>
+
